@@ -1,7 +1,7 @@
 # Real-Time 2D object Recognition
--------------------------------------------------------
+
 ## File structure
-keep the following files in same folder
+### keep the following files in same folder
 - CMakeList.txt
 - main.cpp
 - features.cpp
